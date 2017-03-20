@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/slide/sua.blade.php</file>
+            <file>file:/C:/wamp64/www/jteam/app/Http/Controllers/CateController.php</file>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/cate/sua.blade.php</file>
+            <file>file:/C:/wamp64/www/jteam/app/Slide.php</file>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/slide/them.blade.php</file>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/login.blade.php</file>
+            <file>file:/C:/wamp64/www/jteam/routes/web.php</file>
+            <file>file:/C:/wamp64/www/jteam/app/Http/Controllers/SlideController.php</file>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/product/danhsach.blade.php</file>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/cate/danhsach.blade.php</file>
+            <file>file:/C:/wamp64/www/jteam/resources/views/layouts/admin/slide/danhsach.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
